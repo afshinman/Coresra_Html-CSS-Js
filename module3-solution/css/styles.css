@@ -1,0 +1,77 @@
+/** HEADER **/
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand {
+  padding-top: 15px;
+  padding-bottom: 25px;
+}
+
+.navbar-brand h1 { /* page name */
+  color: #951C49;
+  font-size: 2em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+.box{
+  border: 1px solid #61122f;
+  background-color: #f6f385;
+}
+#nav-list {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a {
+  font-size: 1.8em;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+/* END HEADER */
+
+/* HOME PAGE */
+h2 {
+  font-weight: bold;
+  margin-top: 75px;
+}
+
+#cont {
+  background-color: #ffb;
+  border: 2px solid black;
+  position: relative;
+  padding: 10px;
+  margin-top: 25px;
+}
+#cont p {
+  font-weight: bold;
+  text-align: center;
+  font-size: 125%;
+}
+
+#cont section{
+    font-size: 110%;
+    margin-top: 25px;
+}
+body { padding-top: 70px; }
